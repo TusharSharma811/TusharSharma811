@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi , I'm Tushar 👋
 
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+💭 Currently learning about Full stack development and AI .
 <!--
 **TusharSharma811/TusharSharma811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
